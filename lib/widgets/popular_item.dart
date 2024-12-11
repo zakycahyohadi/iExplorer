@@ -1,4 +1,4 @@
-import 'package:aspen_apk/screens/place_screen.dart';
+import 'package:aspen_apk/screens/detail/place_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';

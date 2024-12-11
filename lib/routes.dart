@@ -1,5 +1,5 @@
 import 'package:aspen_apk/screens/explore/explore_screen.dart';
-import 'package:aspen_apk/screens/place_screen.dart';
+import 'package:aspen_apk/screens/detail/place_screen.dart';
 import 'package:aspen_apk/screens/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 

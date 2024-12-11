@@ -40,6 +40,7 @@ class _ExploreScreenState extends State < ExploreScreen >
         child: Scaffold(
           backgroundColor: Colors.white,
           bottomNavigationBar: BottomNavigationBar(
+
             fixedColor: const Color(0xFF34C759),
               currentIndex: 0,
               unselectedItemColor: Colors.black38,
